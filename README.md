@@ -1,2 +1,5 @@
-# nuova-repository
-la mia prima repository
+APPUNTI PROGRAMMAZIONE
+Python:
+-python
+-tkinter
+-pygame
